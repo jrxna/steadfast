@@ -9,7 +9,6 @@ Built for the JRXNA workspace; the theme name is Steadfast.
 ## Targets
 
 - VSCode theme and recommended settings
-- Obsidian theme CSS
 - iTerm2 color preset
 - Shared palette documentation
 - Meslo Nerd Font setup notes
@@ -25,9 +24,6 @@ steadfast/
 ├── vscode/
 │   ├── settings.json
 │   └── steadfast-color-theme.json
-├── obsidian/
-│   ├── theme.css
-│   └── snippets/
 ├── iterm2/
 │   ├── Steadfast.itermcolors
 │   └── screenshots/
@@ -58,10 +54,6 @@ Copy the repo into your VSCode extensions directory or run:
 
 Then choose `Steadfast` from the color theme picker. Recommended editor and terminal settings are in `vscode/settings.json`.
 
-### Obsidian
-
-Copy `obsidian/theme.css` into your vault or Obsidian themes directory as `Steadfast/theme.css`, then enable `Steadfast` in Appearance settings.
-
 ### iTerm2
 
 Import `iterm2/Steadfast.itermcolors` from:
@@ -76,7 +68,7 @@ Use Meslo Nerd Font for the profile. See `fonts/meslo-setup.md`.
 
 The included wallpaper is `wallpapers/steadfast-wallpaper.png`, copied from `/Users/jrxna/Desktop/Documents/Assets/Wallpaper.png`.
 
-Screenshot placeholders are included under `screenshots/` and `iterm2/screenshots/`. Add real VSCode, Obsidian, and iTerm2 captures after importing the theme.
+Screenshot placeholders are included under `screenshots/` and `iterm2/screenshots/`. Add real VSCode and iTerm2 captures after importing the theme.
 
 ## License
 
