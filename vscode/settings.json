@@ -1,0 +1,17 @@
+{
+  "workbench.colorTheme": "Steadfast",
+  "editor.fontFamily": "'MesloLGS Nerd Font Mono', 'MesloLGS NF', Menlo, Monaco, monospace",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "line",
+  "editor.guides.bracketPairs": "active",
+  "editor.renderWhitespace": "selection",
+  "terminal.integrated.fontFamily": "'MesloLGS Nerd Font Mono', 'MesloLGS NF', monospace",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "block",
+  "workbench.sideBar.location": "left",
+  "workbench.tree.indent": 14
+}

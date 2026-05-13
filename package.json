@@ -1,0 +1,36 @@
+{
+  "name": "steadfast-theme",
+  "displayName": "Steadfast",
+  "description": "A workspace forged for mastery, diligence, and deep concentration.",
+  "version": "0.1.0",
+  "publisher": "jrxna",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Steadfast",
+        "uiTheme": "vs-dark",
+        "path": "./vscode/steadfast-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jrxna/steadfast.git"
+  },
+  "keywords": [
+    "theme",
+    "vscode",
+    "gruvbox",
+    "warm",
+    "industrial",
+    "foundry",
+    "jrxna"
+  ]
+}
